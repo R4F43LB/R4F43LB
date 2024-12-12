@@ -4,7 +4,7 @@
 
 Soy un Ingeniero Informático con más de veinte (20) años de experiencia en el sector de la tecnología interactuando con procesos, ciencia y análisis de datos, leguajes de programación, metodologías, redes informáticas, centros de datos, servidores, etc. Me encanta mejorar procesos y estudiar las variables que allí intervienen para obtener información valiosa que ayude a los decisores a seguir el camino correcto ✅. Como objetivo final, apunto 🎯 a dejar un legado de conocimientos que sume al patrimonio empresarial.
 
-A lo largo de mi carrera me he descubierto como un firme defensor 🛡️⚔️ del software libre ya que, en la mayoría de los casos, ofrece una calidad comparable al software privativo a un costo mucho menor📉💰. Sin embargo, soy pragmático: si el software privativo es la mejor opción para el trabajo, no dudaré en usarlo.
+A lo largo de mi carrera me he descubierto como un firme defensor 🛡️⚔️ del software libre ya que, en la mayoría de los casos, ofrece una calidad comparable al software privativo a un costo mucho menor📉💰. Sin embargo, soy pragmático: si el software privativo es la mejor opción para cumplir el objetivo, no dudaré en usarlo.
 
 He desarrollado un sólido conjunto de habilidades en:
 • Análisis de datos 📊: Python, SQL, almacenamiento de grandes volúmenes de datos
