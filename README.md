@@ -2,7 +2,7 @@
 
 ![Texto alternativo](https://github.com/barisoft/barisoft/blob/main/assets/images/Black%20&%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20BannerV4.png?raw=true)
 
-Soy un apasionado profesional de los procesos, ciencia y análisis de datos con más de veinte (20) años de experiencia en el sector de la tecnología en diversos sectores. Me encanta mejorar procesos y estudiar las variables que allí intervienen para obtener información valiosa que ayude a los decisores a seguir el camino correcto ✅. Como objetivo final, apunto 🎯 a dejar un legado de conocimientos que sume al patrimonio empresarial.
+Soy un Ingeniero Informático con más de veinte (20) años de experiencia en el sector de la tecnología interactuando con procesos, ciencia y análisis de datos, leguajes de programación, metodologías, redes informáticas, centros de datos, servidores, etc. Me encanta mejorar procesos y estudiar las variables que allí intervienen para obtener información valiosa que ayude a los decisores a seguir el camino correcto ✅. Como objetivo final, apunto 🎯 a dejar un legado de conocimientos que sume al patrimonio empresarial.
 
 A lo largo de mi carrera me he descubierto como un firme defensor 🛡️⚔️ del software libre ya que, en la mayoría de los casos, ofrece una calidad comparable al software privativo a un costo mucho menor📉💰. Sin embargo, soy pragmático: si el software privativo es la mejor opción para el trabajo, no dudaré en usarlo.
 
